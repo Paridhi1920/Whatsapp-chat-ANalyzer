@@ -16,7 +16,6 @@
 - Matplotlib & Seaborn 📈 (for data visualization)
 - NLP 🗣️ (for text analysis)
 
-## 🌐 Live Demo
-🚀 **Check out the app here:**  
-👉 [WhatsApp Chat Analyzer](https://paridhi-whatsapp-chat-analyzer-app.streamlit.app)
-👉 Hosted on Streamlit Cloud
+## 🌐 Live Demo  
+🚀 <a href="https://paridhi-whatsapp-chat-analyzer-app.streamlit.app" target="_blank">Check out the app here</a>
+  Hosted on Streamlit Cloud
