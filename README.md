@@ -18,5 +18,4 @@
 
 ## 🚀 Deployment
 🔹 Live Demo: [Click Here](https://paridhi-whatsapp-chat-analyzer-app.streamlit.app)
-
 🔹 Hosted on Streamlit Cloud
