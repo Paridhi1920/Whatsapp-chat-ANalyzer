@@ -17,6 +17,7 @@
 - NLP 🗣️ (for text analysis)
 
 ## 🌐 Live Demo  
-🚀 **Check out the app here:**  
-👉 **[WhatsApp Chat Analyzer](https://paridhi-whatsapp-chat-analyzer-app.streamlit.app){:target="_blank"}**
+🚀 **Open it manually in a new tab:**  
+[https://paridhi-whatsapp-chat-analyzer-app.streamlit.app](https://paridhi-whatsapp-chat-analyzer-app.streamlit.app) 
+- Hosted on Stramlit community cloud
 
